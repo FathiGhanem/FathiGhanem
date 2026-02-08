@@ -184,22 +184,14 @@
 
 <h2>📊 PLAYER STATISTICS</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FathiGhanem&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ffcc&icon_color=6e00ff&text_color=c9d1d9&ring_color=00ffcc" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathiGhanem&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" height="180" alt="languages" />
-</div>
 
-<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FathiGhanem&theme=midnight-purple&hide_border=true&background=0d1117&ring=00ffcc&fire=6e00ff&currStreakLabel=00ffcc&sideLabels=00ffcc&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="streak" />
+  
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=FathiGhanem&theme=radical&hide_border=true&background=0d1117&ring=00ffcc&fire=6e00ff&currStreakLabel=00ffcc&sideLabels=00ffcc&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FathiGhanem&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies" />
-</div>
 
 <!-- ═══════════════════════════════ FEATURED PROJECTS ═══════════════════════════════ -->
 
