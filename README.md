@@ -8,8 +8,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/⚡_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/fathi-ghanem/)
   [![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your-email@example.com)
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Explore-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)](#)
-  [![Steam](https://img.shields.io/badge/🎮_Steam-Profile-1b2838?style=for-the-badge&logo=steam&logoColor=white&labelColor=0d1117)](#)
+  [![Discord](https://img.shields.io/badge/💬_Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/427811426829205504)
 
 </div>
 
@@ -23,27 +22,28 @@
 
 ## 🕹️ `SELECT YOUR PLAYER`
 
-```js
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ██████╗ LAYER: Fathi Ghanem                                ║
-║   ██╔══██╗                                                   ║
-║   ██████╔╝  📍 Server: Amman, Jordan 🇯🇴                     ║
-║   ██╔═══╝   🎮 Class:  Software Engineer / Gamer / E-Com    ║
-║   ██║       ⚔️  Guild:  @PetjoOfficial                       ║
-║   ╚═╝       🏆 Title:  Full Stack Developer                  ║
-║                                                              ║
-║   ┌─────────────────────────────────────────────────────┐    ║
-║   │  STR ████████████████████░░░░  Backend Mastery  85  │    ║
-║   │  DEX ██████████████████░░░░░░  Frontend Skills  75  │    ║
-║   │  INT █████████████████████░░░  Problem Solving  90  │    ║
-║   │  WIS ████████████████████░░░░  Gaming E-Com     80  │    ║
-║   │  CHA ██████████████████████░░  Communication    92  │    ║
-║   │  LCK ████████████████████████  Gaming Skills    99  │    ║
-║   └─────────────────────────────────────────────────────┘    ║
-║                                                              ║
-║   [ START GAME ]        [ VIEW INVENTORY ]      [ QUIT ]     ║
-╚══════════════════════════════════════════════════════════════╝
+```
+ ╔════════════════════════════════════════════════════════════╗
+ ║                                                            ║
+ ║   > PLAYER: Fathi Ghanem                                   ║
+ ║   > SERVER: Amman, Jordan                                  ║
+ ║   > CLASS:  Software Engineer / Gamer / E-Commerce         ║
+ ║   > GUILD:  @PetjoOfficial                                 ║
+ ║   > TITLE:  Full Stack Developer                           ║
+ ║   > RANK:   Legendary                                      ║
+ ║                                                            ║
+ ║   STATS                                                    ║
+ ║   ─────────────────────────────────────────────────────    ║
+ ║   STR [####################----]  Backend Mastery   85     ║
+ ║   DEX [##################------]  Frontend Skills   75     ║
+ ║   INT [#####################---]  Problem Solving   90     ║
+ ║   WIS [####################----]  Gaming E-Com      80     ║
+ ║   CHA [######################--]  Communication     92     ║
+ ║   LCK [########################]  Gaming Skills     99     ║
+ ║   ─────────────────────────────────────────────────────    ║
+ ║                                                            ║
+ ║   [ START GAME ]       [ VIEW INVENTORY ]      [ QUIT ]    ║
+ ╚════════════════════════════════════════════════════════════╝
 ```
 
 </td></tr>
@@ -268,7 +268,7 @@
 ║   ✦  Build the next big thing in gaming e-com            ║
 ║   ✦  Or just squad up for a late-night gaming sesh       ║
 ║                                                          ║
-║              >>> PRESS START TO CONNECT <<<               ║
+║              >>> PRESS START TO CONNECT <<<              ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -277,6 +277,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathi-ghanem/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/427811426829205504)
 
 <br/>
 
