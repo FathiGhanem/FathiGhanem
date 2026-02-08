@@ -7,7 +7,7 @@
   <br/>
 
   [![LinkedIn](https://img.shields.io/badge/⚡_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/fathi-ghanem/)
-  [![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your-email@example.com)
+  [![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:fathii.ghanem@gmail.com)
   [![Discord](https://img.shields.io/badge/💬_Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/427811426829205504)
 
 </div>
@@ -268,7 +268,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathi-ghanem/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathi.ghanem@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/427811426829205504)
 
 <br/>
