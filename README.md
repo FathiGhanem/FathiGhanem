@@ -28,7 +28,7 @@
  ║   > PLAYER: Fathi Ghanem                                   ║
  ║   > SERVER: Amman, Jordan                                  ║
  ║   > CLASS:  Software Engineer / Gamer / E-Commerce         ║
- ║   > GUILD:  @PetjoOfficial                                 ║
+ ║   > GUILD:  FGGSTORE                                       ║
  ║   > TITLE:  Full Stack Developer                           ║
  ║   > RANK:   Legendary                                      ║
  ║                                                            ║
