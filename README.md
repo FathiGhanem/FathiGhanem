@@ -1,10 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:6e00ff,100:00ffcc&height=300&section=header&text=FATHI%20GHANEM&fontSize=80&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=⚔️%20Software%20Engineer%20%20|%20%20🎮%20Gamer%20%20|%20%20🛒%20Gaming%20E-Commerce%20Specialist&descAlignY=58&descSize=18&descColor=ffffff" />
+<!-- ═══════════════ CINEMATIC BOOT SEQUENCE — custom animated SVG ═══════════════ -->
+<!-- Requires: assets/hero-arena.svg committed to this repo -->
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+LOADING+PROFILE...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+WELCOME+TO+MY+DIGITAL+ARENA+%F0%9F%8E%AE%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="assets/hero-arena.svg" width="100%" alt="FATHI GHANEM — Engineer × Gamer × Store Operator" />
+</div>
 
-  <br/>
+<div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/⚡_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/fathi-ghanem/)
   [![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:fathii.ghanem@gmail.com)
@@ -14,43 +15,13 @@
 
 <br/>
 
-<!-- ═══════════════════════════════ CHARACTER SELECT ═══════════════════════════════ -->
+<!-- ═══════════════ CHARACTER SELECT — animated HUD ═══════════════ -->
 
 <div align="center">
-<table>
-<tr><td>
-
-## 🕹️ `SELECT YOUR PLAYER`
-
-```
- ╔════════════════════════════════════════════════════════════╗
- ║                                                            ║
- ║   > PLAYER: Fathi Ghanem                                   ║
- ║   > SERVER: Amman, Jordan                                  ║
- ║   > CLASS:  Software Engineer / Gamer / E-Commerce         ║
- ║   > GUILD:  FGGSTORE                                       ║
- ║   > TITLE:  Full Stack Developer                           ║
- ║   > RANK:   Legendary                                      ║
- ║                                                            ║
- ║   STATS                                                    ║
- ║   ─────────────────────────────────────────────────────    ║
- ║   STR [####################----]  Backend Mastery   85     ║
- ║   DEX [##################------]  Frontend Skills   75     ║
- ║   INT [#####################---]  Problem Solving   90     ║
- ║   WIS [####################----]  Gaming E-Com      80     ║
- ║   CHA [######################--]  Communication     92     ║
- ║   LCK [########################]  Gaming Skills     99     ║
- ║   ─────────────────────────────────────────────────────    ║
- ║                                                            ║
- ║   [ START GAME ]       [ VIEW INVENTORY ]      [ QUIT ]    ║
- ╚════════════════════════════════════════════════════════════╝
-```
-
-</td></tr>
-</table>
+  <img src="assets/stats-hud.svg" width="100%" alt="Character select — animated stats HUD" />
 </div>
 
-<!-- ═══════════════════════════════ ABOUT ME ═══════════════════════════════ -->
+<!-- ═══════════════ ACTIVE QUESTS ═══════════════ -->
 
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ACTIVE QUESTS</h2>
 
@@ -70,7 +41,7 @@
 
 <br clear="right"/>
 
-<!-- ═══════════════════════════════ TECH LOADOUT ═══════════════════════════════ -->
+<!-- ═══════════════ TECH LOADOUT ═══════════════ -->
 
 <h2>🎒 INVENTORY — TECH LOADOUT</h2>
 
@@ -145,7 +116,7 @@
 
 </div>
 
-<!-- ═══════════════════════════════ GAMING SETUP ═══════════════════════════════ -->
+<!-- ═══════════════ GAMING DNA ═══════════════ -->
 
 <h2>🎮 GAMING DNA</h2>
 
@@ -158,7 +129,7 @@
 
 ```
 🎯 FPS      ████████████░░  Pro
-🗡️ RPG      ██████████████  Legendary  
+🗡️ RPG      ██████████████  Legendary
 🏎️ Racing   ████████████░░  Pro
 🧩 Strategy ██████████░░░░  Advanced
 🌍 MMO      ████████████░░  Pro
@@ -180,20 +151,23 @@
 </table>
 </div>
 
-<!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
 
 <h2>📊 PLAYER STATISTICS</h2>
 
-
-
 <div align="center">
-  
+
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=FathiGhanem&theme=radical&hide_border=true&background=0d1117&ring=00ffcc&fire=6e00ff&currStreakLabel=00ffcc&sideLabels=00ffcc&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
 
 </div>
 
+<h2>📈 XP PROGRESSION</h2>
 
-<!-- ═══════════════════════════════ FEATURED PROJECTS ═══════════════════════════════ -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FathiGhanem&bg_color=0d1117&color=00ffcc&line=6e00ff&point=00ffcc&area_color=6e00ff&area=true&hide_border=true&custom_title=🎮%20Commit%20Activity%20-%20Daily%20XP%20Grind" alt="contribution graph" />
+</div>
+
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 
 <h2>🗺️ QUEST LOG — FEATURED PROJECTS</h2>
 
@@ -229,56 +203,36 @@
 
 </div>
 
-<!-- ═══════════════════════════════ CONTRIBUTION GRAPH ═══════════════════════════════ -->
-
-<h2>📈 XP PROGRESSION</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FathiGhanem&bg_color=0d1117&color=00ffcc&line=6e00ff&point=00ffcc&area_color=6e00ff&area=true&hide_border=true&custom_title=🎮%20Commit%20Activity%20-%20Daily%20XP%20Grind" alt="contribution graph" />
-</div>
-
-<!-- ═══════════════════════════════ SNAKE ═══════════════════════════════ -->
+<!-- ═══════════════ SNAKE ═══════════════ -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/FathiGhanem/FathiGhanem/output/snake.svg" alt="Snake animation" />
 </div>
 
-<!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
+<!-- ═══════════════ CONNECT ═══════════════ -->
 
 <h2>🤝 JOIN MY PARTY</h2>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   🎮  Looking for a dev who speaks fluent Gaming         ║
-║       AND clean code?  You found your player.            ║
-║                                                          ║
-║   ✦  Collaborate on gaming/e-commerce platforms          ║
-║   ✦  Discuss tech, gaming, and digital commerce          ║
-║   ✦  Build the next big thing in gaming e-com            ║
-║   ✦  Or just squad up for a late-night gaming sesh       ║
-║                                                          ║
-║              >>> PRESS START TO CONNECT <<<              ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+**🎮 Looking for a dev who speaks fluent Gaming AND clean code? You found your player.**
+
+Collaborate on gaming/e-com platforms &nbsp;✦&nbsp; Talk tech & digital commerce &nbsp;✦&nbsp; Or just squad up for a late-night sesh
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathi-ghanem/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathi.ghanem@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathii.ghanem@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/427811426829205504)
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=FathiGhanem&label=PROFILE+VIEWS&color=00ffcc&style=for-the-badge&labelColor=0d1117" alt="profile views" />
 
-<br/><br/>
-
-> *"In code and in games — I never rage quit."* ⚔️
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:00ffcc&height=120&section=footer" />
+<!-- ═══════════════ ANIMATED SIGN-OFF ═══════════════ -->
+
+<div align="center">
+  <img src="assets/footer-ggwp.svg" width="100%" alt="GG WP — I never rage quit" />
+</div>
